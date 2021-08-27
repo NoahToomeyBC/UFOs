@@ -14,15 +14,21 @@ In this project, we used a data set with information regarding different UFO sig
 ### Step-By-Step Walkthrough
 - The website was designed with ease-of-use in mind. Because of that, we have all the information displayed from the start as well as example searches so the end-user knows how to filter the searches with their input. 
 
-*INSERT IMAGE*
+<p align="center">
+<img width="960" height="540" src="https://user-images.githubusercontent.com/85508764/131146496-e96cf3d4-8f77-4b9f-9091-169b10b0ce87.png">
+</p>
 
 - From there users can simply type in the specifics of what they want to find. For instance, if a user lived in Fort Worth, Texas, they could simply type in Houston and the state code and the table would automatically filter the results to only get sightings from Fort Worth.
 
-*INSERT IMAGE*
+<p align="center">
+<img width="960" height="540" src="https://user-images.githubusercontent.com/85508764/131146849-a40a86d5-6beb-4c65-8816-14bda969d8c4.png">
+</p>
 
 - From there, the users simply have to change whatever is in the filter fields and the table will once again update automatically. Below, the fields were changed to remove fort worth from the city field and updated to search for all Texas sightings.
 
-*INSERT IMAGE*
+<p align="center">
+<img width="960" height="540" src="https://user-images.githubusercontent.com/85508764/131146902-096ef878-919f-4517-a76d-acd31dd3514b.png">
+</p>
 
 
 
